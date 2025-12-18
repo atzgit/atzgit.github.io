@@ -17,11 +17,11 @@ Welcome!
 
 
 
-<p>By @atzgit</p>
+<p>By @{{ site.github.owner_name }}</p>
 <p>
-  <a href="/pages/about.html"><img src="https://raw.githubusercontent.com/atzgit/atzgit.github.io/main/assets/logo16.png" width="16" /></a> <a href="/pages/about.html">About</a>
+  <a href="/pages/about.html"><img src="https://raw.githubusercontent.com/{{ site.github.owner_name }}/{{ site.github.url }}/main/assets/logo16.png" width="16" /></a> <a href="/pages/about.html">About</a>
   &mdash;
-  <a href="https://github.com/atzgit/" target="_blank" rel="noopener noreferrer">Project</a> 
+  <a href="https://github.com/{{ site.github.owner_name }}/" target="_blank" rel="noopener noreferrer">Project</a> 
   &mdash;
-  <a href="https://pages.github.com/themes" target="_blank" rel="noopener noreferrer">Theme</a>
+  <a href="https://github.com/pages-themes" target="_blank" rel="noopener noreferrer">Theme</a>
 </p>
