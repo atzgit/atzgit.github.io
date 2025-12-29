@@ -8,16 +8,14 @@ permalink: /readme/
 ATZ website  
 Welcome!  
 
-# PAGE LIST
-* [About](/pages/about.html)
-* [Orther link](https://google.com)
-
+# PAGE LIST  
 {% for page in site.pages %}
 {% if page.path contains 'pages/' %}
 - [{{ page.title | default: page.name }}]({{ page.url }})
 {% endif %}
 {% endfor %}
-
+* [About](/pages/about.html)
+* [Orther link](https://google.com)
 
 
 
