@@ -12,7 +12,11 @@ Welcome!
 * [About](/pages/about.html)
 * [Orther link](https://google.com)
 
-
+{% for page in site.pages %}
+{% if page.path contains 'pages/' %}
+- [{{ page.title | default: page.name }}]({{ page.url }})
+{% endif %}
+{% endfor %}
 
 
 
