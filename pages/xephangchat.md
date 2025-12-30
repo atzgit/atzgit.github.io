@@ -26,22 +26,26 @@ Bảng xếp hạng các ứng dụng nhắn tin (chat) mà tôi đã sử dụn
     <tr>
       <td style="background-color: #ffbb33; color: white; text-align: center; font-weight: bold;">B</td>
       <td>
-        ✅ <strong>Tốt</strong><br>
-        Đạt yêu cầu, ổn định và hữu ích.
+        <img src="https://favicon.vemetric.com/www.messenger.com?size=48?format=png" width="48" style="vertical-align: middle;"> 
+        <strong> Messenger</strong>: Bảo mật trung bình. Lãnh đạo bởi Mark Zuckerberg (30/12/2025).<br>
       </td>
     </tr>
     <tr>
       <td style="background-color: #99cc00; color: white; text-align: center; font-weight: bold;">C</td>
       <td>
-        📈 <strong>Trung Bình</strong><br>
-        Có thể sử dụng, cần cải thiện thêm.
+        <img src="https://favicon.vemetric.com/www.messenger.com?size=48?format=png" width="48" style="vertical-align: middle;"> 
+        <strong> Messenger</strong>: Bảo mật trung bình, liên kết với Facebook tiện dụng. Lãnh đạo bởi Mark Zuckerberg (30/12/2025).<br>
+        <img src="https://favicon.vemetric.com/www.whatsapp.com?size=48?format=png" width="48" style="vertical-align: middle;"> 
+        <strong> Whatsapp</strong>: Bảo mật trung bình, dễ kết nối bằng số điện thoại, đồng bộ kiểu thiết bị chính-phụ. Lãnh đạo bởi Mark Zuckerberg (30/12/2025).<br>
       </td>
     </tr>
     <tr>
       <td style="background-color: #33b5e5; color: white; text-align: center; font-weight: bold;">D</td>
       <td>
         <img src="assets/bl/bl_app_zl_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Zalo</strong>: Bảo mật kém, Zalo có quyền đọc & chuyển giao tin nhắn, không đăng nhập cùng lúc nhiều thiết bị, được nhà nước Việt Nam hậu thuẫn. Lãnh đạo bởi VNG và các công ty Trung Quốc (30/12/2025).<br>
+        <strong> Zalo</strong>: Bảo mật kém, ứng dụng có quyền đọc & chuyển giao tin nhắn, không đăng nhập cùng lúc nhiều thiết bị, được nhà nước Việt Nam hậu thuẫn. Lãnh đạo bởi VNG và các công ty Trung Quốc (30/12/2025).<br>
+        <img src="https://favicon.vemetric.com/www.wechat.com?size=48?format=png" width="48" style="vertical-align: middle;"> 
+        <strong> WeChat</strong>: Bảo mật kém, ứng dụng có quyền đọc & chuyển giao tin nhắn, được nhà nước Trung Quốc hậu thuẫn. Lãnh đạo bởi công ty Trung Quốc (30/12/2025).<br>
       </td>
     </tr>
   </tbody>
