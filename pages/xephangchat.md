@@ -10,7 +10,7 @@ Bảng xếp hạng các ứng dụng nhắn tin (chat) mà tôi đã sử dụn
   </thead>
   <tbody>
     <tr>
-      <td style="background-color: #ff4444; color: white; text-align: center; font-weight: bold;">S</td>
+      <td style="background-color: #57E32C; color: white; text-align: center; font-weight: bold;">S</td>
       <td>
         <img src="https://favicon.vemetric.com/www.getsession.org?size=48?format=png" width="48" style="vertical-align: middle;"> 
         <strong> Session</strong>: Cực kỳ bảo mật, mã nguồn mở, chỉ lưu trên thiết bị, phi tập trung, đăng nhập bằng chuỗi ký tự, chống kiểm duyệt. Lãnh đạo bởi Kee Jefferys, trụ sở tại Hoa Kỳ (30/12/2025).<br>
@@ -19,7 +19,7 @@ Bảng xếp hạng các ứng dụng nhắn tin (chat) mà tôi đã sử dụn
       </td>
     </tr>
     <tr>
-      <td style="background-color: #ff8844; color: white; text-align: center; font-weight: bold;">A</td>
+      <td style="background-color: #B7DD29; color: white; text-align: center; font-weight: bold;">A</td>
       <td>
         <img src="https://favicon.vemetric.com/telegram.org?size=48?format=png" width="48" style="vertical-align: middle;"> 
         <strong> Telegram</strong>: Bảo mật cao, lưu tập tin dung lượng lớn, dễ dàng đồng bộ giữa các thiết bị, nhóm lớn, bots, chống kiểm duyệt. Lãnh đạo bởi Pavel Durov, không trụ sở chính (30/12/2025).<br>
@@ -30,7 +30,7 @@ Bảng xếp hạng các ứng dụng nhắn tin (chat) mà tôi đã sử dụn
       </td>
     </tr>
     <tr>
-      <td style="background-color: #ffbb33; color: white; text-align: center; font-weight: bold;">B</td>
+      <td style="background-color: #FFE234; color: white; text-align: center; font-weight: bold;">B</td>
       <td>
         <img src="https://favicon.vemetric.com/www.whatsapp.com?size=48?format=png" width="48" style="vertical-align: middle;"> 
         <strong> Whatsapp</strong>: Bảo mật trung bình, dễ kết nối bằng số điện thoại, đồng bộ kiểu thiết bị chính-phụ. Lãnh đạo bởi Mark Zuckerberg, trụ sở tại Hoa Kỳ (30/12/2025).<br>
@@ -39,14 +39,14 @@ Bảng xếp hạng các ứng dụng nhắn tin (chat) mà tôi đã sử dụn
       </td>
     </tr>
     <tr>
-      <td style="background-color: #99cc00; color: white; text-align: center; font-weight: bold;">C</td>
+      <td style="background-color: #FFA534; color: white; text-align: center; font-weight: bold;">C</td>
       <td>
         <img src="https://favicon.vemetric.com/www.messenger.com?size=48?format=png" width="48" style="vertical-align: middle;"> 
         <strong> Messenger</strong>: Bảo mật thấp, liên kết với Facebook tiện dụng. Lãnh đạo bởi Mark Zuckerberg, trụ sở tại Hoa Kỳ (30/12/2025).<br>
       </td>
     </tr>
     <tr>
-      <td style="background-color: #33b5e5; color: white; text-align: center; font-weight: bold;">D</td>
+      <td style="background-color: #FF4545; color: white; text-align: center; font-weight: bold;">D</td>
       <td>
         <img src="https://raw.githubusercontent.com/atzgit/atzgit.github.io/main/assets/bl/bl_app_zl_64.png" width="48" style="vertical-align: middle;"> 
         <strong> Zalo</strong>: Bảo mật kém, ứng dụng có quyền đọc & chuyển giao tin nhắn, không đăng nhập cùng lúc nhiều thiết bị, được nhà nước hậu thuẫn. Lãnh đạo bởi VNG và các công ty Tung Của, trụ sở tại Việt Nam (30/12/2025).<br>
