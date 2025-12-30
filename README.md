@@ -14,7 +14,6 @@ Welcome!
 - [{{ page.title | default: page.name }}]({{ page.url }})
 {% endif %}
 {% endfor %}
-* [About](/pages/about.html)
 * [Orther link](https://google.com)
 
 
