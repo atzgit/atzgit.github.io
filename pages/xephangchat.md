@@ -1,5 +1,6 @@
-# Bảng xếp hạng app chat  
-
+# Bảng xếp hạng ứng dụng nhắn tin (chat)  
+Bảng xếp hạng các ứng dụng nhắn tin (chat) mà tôi đã sử dụng. Có ghi rõ tính năng nổi trội, thời gian đánh giá.
+  
 <table>
   <thead>
     <tr>
@@ -19,7 +20,7 @@
       <td style="background-color: #ff8844; color: white; text-align: center; font-weight: bold;">A</td>
       <td>
         <img src="https://favicon.vemetric.com/telegram.org?size=48?format=png" width="48" style="vertical-align: middle;"> 
-        <strong> Telegram</strong>: Bảo mật vừa phải, lưu tập tin dung lượng lớn, dễ dàng đồng bộ giữa các thiết bị, chống kiểm duyệt (30/12/2025).<br>
+        <strong> Telegram</strong>: Bảo mật cao, lưu tập tin dung lượng lớn, dễ dàng đồng bộ giữa các thiết bị, nhóm lớn, bots, chống kiểm duyệt. Lãnh đạo bởi Pavel Durov (30/12/2025).<br>
       </td>
     </tr>
     <tr>
@@ -39,8 +40,8 @@
     <tr>
       <td style="background-color: #33b5e5; color: white; text-align: center; font-weight: bold;">D</td>
       <td>
-        ⚠️ <strong>Thấp</strong><br>
-        Hiệu suất hạn chế, nên tránh nếu có lựa chọn tốt hơn.
+        <img src="https://favicon.vemetric.com/chat.zalo.me?size=48?format=png" width="48" style="vertical-align: middle;"> 
+        <strong> Zalo</strong>: Bảo mật kém, Zalo có quyền đọc & chuyển giao tin nhắn, không đăng nhập cùng lúc nhiều thiết bị, được nhà nước Việt Nam hậu thuẫn. Lãnh đạo bởi VNG và các công ty Trung Quốc (30/12/2025).<br>
       </td>
     </tr>
   </tbody>
