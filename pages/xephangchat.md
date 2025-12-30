@@ -1,11 +1,11 @@
 # Bảng xếp hạng ứng dụng nhắn tin (chat)  
-Bảng xếp hạng các ứng dụng nhắn tin (chat) mà tôi đã sử dụng. Dựa trên tính năng nổi trội, những hạn chế. Có gi rõ thời gian đánh giá.
+Bảng xếp hạng các ứng dụng nhắn tin (chat) mà tôi đã sử dụng. Dựa trên tính năng nổi trội, những hạn chế. Có ghi rõ thời gian đánh giá.
   
 <table>
   <thead>
     <tr>
-      <th style="width: 20%; text-align: center;">Cấp độ</th>
-      <th style="width: 80%;">Nội dung xếp hạng</th>
+      <th style="width: 10%; text-align: center;">Cấp độ</th>
+      <th style="width: 90%;">Nội dung xếp hạng</th>
     </tr>
   </thead>
   <tbody>
