@@ -34,6 +34,8 @@ Bảng xếp hạng các ứng dụng nhắn tin (chat) mà tôi đã sử dụn
       <td>
         <img src="https://favicon.vemetric.com/www.whatsapp.com?size=48?format=png" width="48" style="vertical-align: middle;"> 
         <strong> Whatsapp</strong>: Bảo mật trung bình, dễ kết nối bằng số điện thoại, đồng bộ kiểu thiết bị chính-phụ. Lãnh đạo bởi Mark Zuckerberg, trụ sở tại Hoa Kỳ (30/12/2025).<br>
+        <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/38/3d/59383d52-f531-01d7-47b4-9c99802a56d4/Placeholder.mill/200x200bb-75.webp" width="48" style="vertical-align: middle;"> 
+        <strong> Viber</strong>: Bảo mật trung bình, dễ kết nối bằng số điện thoại. Lãnh đạo bởi Ofir Eyal, trụ sở tại Luxembourg (30/12/2025).<br>
       </td>
     </tr>
     <tr>
@@ -48,8 +50,6 @@ Bảng xếp hạng các ứng dụng nhắn tin (chat) mà tôi đã sử dụn
       <td>
         <img src="https://raw.githubusercontent.com/atzgit/atzgit.github.io/main/assets/bl/bl_app_zl_64.png" width="48" style="vertical-align: middle;"> 
         <strong> Zalo</strong>: Bảo mật kém, ứng dụng có quyền đọc & chuyển giao tin nhắn, không đăng nhập cùng lúc nhiều thiết bị, được nhà nước hậu thuẫn. Lãnh đạo bởi VNG và các công ty Tung Của, trụ sở tại Việt Nam (30/12/2025).<br>
-        <img src="https://favicon.vemetric.com/www.wechat.com?size=48?format=png" width="48" style="vertical-align: middle;"> 
-        <strong> WeChat</strong>: Bảo mật kém, ứng dụng có quyền đọc & chuyển giao tin nhắn, được nhà nước Tung Của hậu thuẫn. Lãnh đạo bởi công ty Tung Của, trụ sở tại Tung Của (30/12/2025).<br>
       </td>
     </tr>
   </tbody>
